@@ -9,6 +9,7 @@ Measurement in inches
 
 # Sample Input 1
 5
+
 11
 
 # Output for Sample Input 1:
